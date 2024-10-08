@@ -14,26 +14,11 @@ Some of my other projects include:
 - <a href = "https://tagnal.shinyapps.io/InspireTrial/"> Mental Health among Pregnant Adolescent Girls in Kenya </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tagnal-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Tagnal-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tagnal-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tagnal-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tagnal-hub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Contact me
  <a href = "https://www.linkedin.com/in/angela-langat/" >
     <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white/" alt = "LinkedIn logo"/> 
       </a>
-
-<!--
-**Tagnal-hub/Tagnal-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
