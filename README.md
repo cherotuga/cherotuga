@@ -7,15 +7,15 @@ I am using data and economic analysis to improve public health outcomes in Kenya
 ## 🔬 Currently Working On
 
 - **Dwelling Under the Shadow** - 
-- **Collecting Data from Public Bodies in Kenya** - [https://github.com/cherotuga/data]
-- **RVFSim** - Agent-Based Model of Rift Valley Fever in Uganda based on Starsim - [https://starsim.org/#models]
-- **Public Health Financing in Kenya** - [https://cema-hub.vercel.app/health-systems/health-financing]
+- [**Collecting Data from Public Bodies in Kenya**](https://github.com/cherotuga/data)
+- [**RVFSim**](https://starsim.org/#models) - Agent-Based Model of Rift Valley Fever in Uganda based on Starsim 
+- [**Public Health Financing in Kenya**](https://cema-hub.vercel.app/health-systems/health-financing)
 - **Cost-Effectiveness of Sickle Cell Interventions in Kenya** 
 
 ## ✅ Completed Projects
 
-- **Femicide Tracking Dashboard** - [tagnal.shinyapps.io/femicideke/]
-- **Inspire Trial Dashboard** - [tagnal.shinyapps.io/InspireTrial/]
+- [**Femicide Tracking Dashboard**](tagnal.shinyapps.io/femicideke/]
+- [**Inspire Trial Dashboard**](tagnal.shinyapps.io/InspireTrial/)
 
 ## 🎯 On the Horizon
 
