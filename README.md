@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Angela Langat - an Assistant Research Fellow - Health Economics at [UON - CEMA](https://cema-africa.uonbi.ac.ke/)
+I'm Angela Langat - an Assistant Research Fellow - Health Economics at [University of Nairobi - Centre for Epidemiological Modelling and Analysis](https://cema-africa.uonbi.ac.ke/)
 
 I am using data and economic analysis to improve public health outcomes in Kenya and East Africa.
 
@@ -14,7 +14,7 @@ I am using data and economic analysis to improve public health outcomes in Kenya
 
 ## ✅ Completed Projects
 
-- [**Femicide Tracking Dashboard**](tagnal.shinyapps.io/femicideke/]
+- [**Femicide Tracking Dashboard**](tagnal.shinyapps.io/femicideke/)
 - [**Inspire Trial Dashboard**](tagnal.shinyapps.io/InspireTrial/)
 
 ## 🎯 On the Horizon
