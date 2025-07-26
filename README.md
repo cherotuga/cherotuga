@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Angela Langat - an Assistant Research Fellow - Health Economics at [UON - CEMA](https://organizationwebsite.org](https://cema-africa.uonbi.ac.ke/)
+I'm Angela Langat - an Assistant Research Fellow - Health Economics at [UON - CEMA](https://cema-africa.uonbi.ac.ke/)
 
 I am using data and economic analysis to improve public health outcomes in Kenya and East Africa.
 
